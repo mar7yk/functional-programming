@@ -1,8 +1,5 @@
 # Task 2
 
-
-fi( x0, fi+1( x1, ..., fm-1( xm-i, f0( xm-i+1,  ... , fj( xn-2, xn-1) ... )) .. ))
-
 Let a list f of two-argument numerical functions f~0~, f~1~, ..., f~m-1~ and a list I of numbers x~0~, x~1~, ..., x~n-1~ be given.
 
 Cyclic application of f over f at position I we call the number 
