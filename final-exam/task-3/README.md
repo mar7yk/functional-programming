@@ -4,6 +4,8 @@ A group of friends plays a board game in which they get an integer number of poi
 
 Implement a function finalScores that, given a list of ordered triplets of player name (string), predicted (integer points), and actual score (integer points), returns a list of pairs of player name and its final score.
 
-> Example: 
+> Example:
+> 
 > finalScores [("Angel", 14, 15), ("Andrey", 8, 10), ("Atanas", 10, 3), ("Georgy", 6, 4)] ->
+> 
 > [("Angel",22), ("Andrey",12), ("Georgy",6), ("Atanas",4)]
